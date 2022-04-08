@@ -1,0 +1,21 @@
+-----------------------------------------
+-- Exercícios Programação e Algoritmos --
+-----------------------------------------
+
+1) O sistema de avaliação de determinada disciplina, é composto por três provas. A primeira 
+prova tem peso 4, a Segunda tem peso 3 e a terceira prova tem peso 3. Faça um algoritmo 
+para calcular a média final de um aluno desta disciplina. Caso a média seja maior ou igual a 
+7 mostre APROVADO, se a média for entre 5 e 7, mostre em RECUPERAÇÃO, e se for menor 
+do que 5 mostre REPROVADO. 
+
+3) Elaborar um algoritmo que informe se um ano informado pelo usuário é bissexto ou não.
+
+2. Elaborar um algoritmo que informe se um número informado pelo usuário é par ou ímpar.
+
+4) Elaborar um algoritmo que lê 2 valores a e b e os escreve com a mensagem: "São múltiplos" ou "Não são múltiplos". 
+
+5) Elabore um algoritmo que leia 3 valores inteiros e mostre o maior valor entre eles.
+
+6) Desenvolva um algoritmo que leia 3 valores inteiros e os apresente em ordem crescente.
+
+7) Desenvolva um algoritmo que leia 3 valores inteiros e os apresente em ordem decrescente
