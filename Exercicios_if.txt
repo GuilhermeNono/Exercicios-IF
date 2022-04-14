@@ -19,3 +19,19 @@ do que 5 mostre REPROVADO.
 6) Desenvolva um algoritmo que leia 3 valores inteiros e os apresente em ordem crescente.
 
 7) Desenvolva um algoritmo que leia 3 valores inteiros e os apresente em ordem decrescente
+
+8) Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes 
+categorias:
+   Infantil A --> 5 a 7 anos
+   Infantil B --> 8 a 10 anos
+   Juvenil A  --> 11 a 13 anos
+   Juvenil B  --> 14 a 17 anos
+   Adulto     --> Maior ou igual a 18 anos
+
+9) Elabore um algoritme que leia o ano de nascimento do usuário e informe se ele pode ou não votar. Faça uma pesquisa para descobrir os limites de idades em que o voto deve ser proibido, obrigatório ou facultativo.
+
+10) Um banco concederá um crédito especial aos seus clientes, variável com o saldo médio no último ano. Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela abaixo. Mostre uma mensagem informando o saldo médio e o valor do crédito.
+   De 0 a 200   --> Nenhum crédito
+   De 201 a 400 --> 20% do valor do saldo médio
+   De 401 a 600 --> 30% do valor do saldo médio
+   Acima de 601 --> 40% do valor do saldo médio
